@@ -29,4 +29,6 @@ if (jaimieLannisterAttack >= jonSnowDefense) {
     console.log(`jon snow's health is ${jonSnowHealth}`)
 } else {
     console.log(`jon ded RIP`)
-}
+} 
+
+console.log("testing github")
